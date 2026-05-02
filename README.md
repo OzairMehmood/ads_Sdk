@@ -31,7 +31,7 @@ repositories {
 }
 
 dependencies {
-    implementation 'com.github.YOUR_USERNAME:MyAdsSdk:1.0.0'
+    implementation 'com.github.OzairMehmood:MyAdsSdk:1.0.0'
 }
 ````
 
